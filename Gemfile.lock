@@ -223,6 +223,7 @@ GEM
       actionpack (>= 4.0)
       activesupport (>= 4.0)
       sprockets (>= 3.0.0)
+    stripe (5.7.1)
     term-ansicolor (1.7.1)
       tins (~> 1.0)
     thor (0.20.3)
@@ -258,6 +259,7 @@ DEPENDENCIES
   shoulda-matchers
   spring
   spring-watcher-listen (~> 2.0.0)
+  stripe
 
 RUBY VERSION
    ruby 2.5.1
